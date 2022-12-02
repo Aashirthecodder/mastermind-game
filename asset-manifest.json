@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mastermind-game/static/css/main.e6c13ad2.css",
+    "main.js": "/mastermind-game/static/js/main.3e69cfd8.js",
+    "static/js/787.fa281d04.chunk.js": "/mastermind-game/static/js/787.fa281d04.chunk.js",
+    "index.html": "/mastermind-game/index.html",
+    "main.e6c13ad2.css.map": "/mastermind-game/static/css/main.e6c13ad2.css.map",
+    "main.3e69cfd8.js.map": "/mastermind-game/static/js/main.3e69cfd8.js.map",
+    "787.fa281d04.chunk.js.map": "/mastermind-game/static/js/787.fa281d04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3e69cfd8.js"
+  ]
+}
